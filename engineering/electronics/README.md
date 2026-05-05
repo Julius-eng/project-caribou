@@ -9,4 +9,5 @@ Each PCB has its own self-contained folder under `pcbs/`. KiCad projects should 
 Current PCB folders:
 
 - `pcbs/CBC_PCB/` — Caribou battery connector PCB. Tracks [issue #6](https://github.com/Arrow-air/project-caribou/issues/6).
+- `pcbs/C90D_PCB/` — 90° battery-to-CBC adapter PCB. Tracks [issue #19](https://github.com/Arrow-air/project-caribou/issues/19).
 - `pcbs/CMAIN_PCB/` — Caribou main PCB. Tracks [issue #8](https://github.com/Arrow-air/project-caribou/issues/8).
