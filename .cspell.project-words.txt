@@ -3,11 +3,14 @@ Anytek
 Ardu
 ArduPilot
 arrowair
+backfeed
 build123d
 buildable
 CBC
 CMAIN
+datasheet
 dmodels
+FETON
 Gerber
 Gerbers
 GNDE
@@ -16,8 +19,8 @@ GPIO
 GPIOs
 heatsinking
 hexacopter
-hobbywing
 Hobbywing
+hobbywing
 keepout
 KiCad
 libcanard
@@ -35,6 +38,9 @@ Precharge
 Prolanv
 Rdson
 repairability
+Rsense
+Samacsys
 SIYI
+Snapeda
 Tattu
 UAVCAN
